@@ -1,0 +1,10 @@
+{
+  "short_name": "Example Healthie Booking Widget",
+  "name": "Example Healthie Booking Widget",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
