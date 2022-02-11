@@ -15,7 +15,7 @@
     "graphql": "^15.5.3",
     "date-fns": "^2.16.1",
     "final-form": "^4.20.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^17.0.1",
     "react-datepicker": "^3.3.0",
     "react-dom": "^17.0.1",
