@@ -17,7 +17,7 @@ cd healthie_widget
 npm install
 ```
 
-Third, adjust config options in (App.tsx)[https://github.com/healthie/healthie_sample_booking_widget/blob/master/src/App.tsx]. They can either be set directly in the code, or passed in via URL params. 
+Third, adjust config options in [App.tsx](https://github.com/healthie/healthie_sample_booking_widget/blob/master/src/App.tsx). They can either be set directly in the code, or passed in via URL params. 
 
 To run the project locally, just do
 
