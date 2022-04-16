@@ -7,17 +7,17 @@ The widget lets a client select an appointment type, find an available appointme
 
 # Usage
 
-First, make sure you have a Healthie API key and account. If you don't have one, you can go to https://gethealthie.com and chat with one of our developers to see if you're a fit.
+First, make sure you have a Healthie API key and account. If you don't have one, you can go to https://gethealthie.com/api to request access
 
 Second, clone the repository to your computer, and install dependencies.
 
 ```bash
-git clone https://github.com/SpurwingIO/Spurwing-ReactJS-widget.git
+git clone https://github.com/healthie/healthie_sample_booking_widget.git
 cd healthie_widget
 npm install
 ```
 
-Third, adjust config options in (App.tsx)[https://github.com/SpurwingIO/Spurwing-ReactJS-widget/blob/master/src/App.tsx]. They can either be set directly in the code, or passed in via URL params. 
+Third, adjust config options in (App.tsx)[https://github.com/healthie/healthie_sample_booking_widget/blob/master/src/App.tsx]. They can either be set directly in the code, or passed in via URL params. 
 
 To run the project locally, just do
 
