@@ -40,7 +40,7 @@ We really like Netlify and S3/Cloudfront ourselves.
 
 ## Limitations
 
-This booking widget is meant to be a simmple example and does not support all different Healthie account settings.
+This booking widget is meant to be a simple example and does not support all different Healthie account settings.
 It has simplified error handling (via Javascript alerts).  
 
 
